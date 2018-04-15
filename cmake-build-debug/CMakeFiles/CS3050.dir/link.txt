@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CS3050.dir/main.cpp.o  -o CS3050 
